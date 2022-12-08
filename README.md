@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Rojanmhj2055/Rojanmhj2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My Name is **Rojan Maharjan**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- 👀 Bachelors in Computer Science
+      Sacramento State University 
+
+### Skills 
+- Data Engineering
+- Software Engineering
+- Backend developer     
+
+### Languages
+- C++
+- Python 
+- JavaScript
+- HTML/CSS
+- SQL/NOSQL
+
+### Frameworks/Libraries
+- Angular js   
+- Node js
+- Flask
+- Django
+- Amazon Web Service
+- Microsoft Azure
+- Azure and AWS
+
+## 📫 How to reach me:
+- [Linkedln](https://www.linkedin.com/in/rojan-maharzan-203561180/) - https://www.linkedin.com/in/rojan-maharzan-203561180/
