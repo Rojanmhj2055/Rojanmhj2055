@@ -8,7 +8,7 @@ My Name is **Rojan Maharjan**.
       Sacramento State University 
 
 ### Skills 
-- Data Engineering
+- Data Engineering / Data Scientist / Machine Learning
 - Software Engineering
 - Backend developer     
 
@@ -24,9 +24,16 @@ My Name is **Rojan Maharjan**.
 - Node js
 - Flask
 - Django
+
+### Machine Learning
+- Scikit-Learn
+- Keras / TensorFlow / pySpark
+- Pandas / Numpy 
+
+### Cloud Services
 - Amazon Web Service
 - Microsoft Azure
-- Azure and AWS
+
 
 ## 📫 How to reach me:
 - [Linkedln](https://www.linkedin.com/in/rojan-maharzan-203561180/) - https://www.linkedin.com/in/rojan-maharzan-203561180/
