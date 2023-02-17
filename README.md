@@ -6,6 +6,7 @@ My Name is **Rojan Maharjan**.
 ### Education
 - 👀 Bachelors in Computer Science
       Sacramento State University 
+- 👀 Minor in Mathematics 
 
 ### Skills 
 - Data Engineering / Data Scientist / Machine Learning
